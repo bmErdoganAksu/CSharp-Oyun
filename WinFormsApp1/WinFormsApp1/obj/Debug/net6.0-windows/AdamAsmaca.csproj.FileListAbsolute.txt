@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AdamAsmaca.exe
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AdamAsmaca.deps.json
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AdamAsmaca.runtimeconfig.json
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AdamAsmaca.dll
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\AdamAsmaca.pdb
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AdamAsmaca.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AdamAsmaca.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AdamAsmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AdamAsmaca.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AdamAsmaca.AssemblyInfo.cs
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AdamAsmaca.dll
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\AdamAsmaca.dll
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AdamAsmaca.pdb
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AdamAsmaca.genruntimeconfig.cache
+C:\Users\asus\Desktop\Oyun\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\AdamAsmaca.dll
